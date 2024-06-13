@@ -1,0 +1,2 @@
+# class-cloner-copier.php
+
